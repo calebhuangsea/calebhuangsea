@@ -17,6 +17,7 @@
   <code>
      {
         "💼status": "Actively Seeking for SDE new grad 2024",
+        "👨pronoun": "He" | "Him" | "Ling Ling🎻"
         "🏠hometown": "Zhongshan, Guangdon, China",
         "🏫location": "Seattle, Washington, United State",
         "✨hobbies": [
