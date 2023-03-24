@@ -17,18 +17,26 @@
   <code>
      {
         "💼status": "Actively Seeking for SDE new grad 2024",
-        "👨pronoun": "He" | "Him" | "Ling Ling🎻"
-        "🏠hometown": "Zhongshan, Guangdon, China",
-        "🗣️language": "English" | "Chinese" | "Cantonese",
-        "🏫location": "Seattle, Washington, United State",
-        "✨hobbies": [
-          "Phone Games",
-          "Basketball & Gym",
-          "Cooking",
-          "Violin Gang~",
-          "Sleeping -. -"
+        "👨pronoun": [
+          "He", 
+          "Him", 
+          "Ling Ling🎻"
         ],
-        "💻Technologies": [
+        "🏠hometown": "Zhongshan, Guangdong, China🇨🇳",
+        "🗣️language": [
+          "English",
+          "Chinese",
+          "Cantonese"
+        ],
+        "🏫location": "Seattle, Washington, United State🇺🇸",
+        "✨hobbies": [
+          "Phone Games📱",
+          "Basketball🏀 & Gym💪",
+          "Cooking🍳",
+          "Violin Gang~🎻",
+          "Sleeping💤"
+        ],
+        "💻fechnologies": [
           "Java", 
           "Python", 
           "Kotlin",
@@ -38,6 +46,13 @@
           "CSS",
           "Node",
           "Express",
+        ],
+        "👀more": [
+          "Backend Developer at Eat-together (https://www.eat-together.tech/)",
+          "Backend Developer at Hua-Classmate (https://uwclassmate.com/)",
+          "Best Use of Wix side challenge in ProSeed Hackathon'22 (https://devpost.com/software/cosme?ref_content=user-portfolio&ref_feature=in_progress)"
+          "My band Polaris won the first place at high school talent competition (https://www.bilibili.com/video/BV1XA411t75c/?spm_id_from=333.999.0.0)",
+          "I learned the violin since kindergarden for 6 years, won a national silver prize but quit on 5th grade (Super regret now:("
         ]
      }
   </code>
