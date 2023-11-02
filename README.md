@@ -3,7 +3,6 @@
 <p><em>A bachelor student at <a href="https://www.washington.edu/">University of Washington</a>,<br/> majoring at Computer Science<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-
 [![Github: Caleb](https://komarev.com/ghpvc/?username=calebhuangsea&style=flat-square)](https://leetcode.com/ch233/)
 [![Leetcode: Caleb](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fch233&logo=leetcode&logoColor=yellow)](https://leetcode.com/ch233/)
 [![LeetCode user ch233](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fch233&logo=leetcode&logoColor=yellow)](https://leetcode.com/ch233/)
@@ -11,8 +10,7 @@
 [![](https://img.shields.io/badge/Gmail-calebhuangsea%40gmail.com-red)](caleb:calebhuangsea@gmail.com)
 [![GitHub Thaiane](https://img.shields.io/github/followers/calebhuangsea?label=follow&style=social)](https://github.com/calebhuangsea)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <pre>
   <code>
@@ -29,6 +27,7 @@
           "Chinese",
           "Cantonese"
         ],
+[![Codeforces: newbornlingling](https://img.shields.io/badge/Codeforces-newbornlingling-blue)](https://codeforces.com/profile/newbornlingling)
         "🏫location": "Seattle, Washington, United State🇺🇸",
         "✨hobbies": [
           "Phone Games📱",
