@@ -1,5 +1,6 @@
-<h2><a href="https://calebhuangsea.github.io./"> Hi there, this is Caleb | Cile Huang | 黄赐乐! </a><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+# Caleb's GitHub Profile
+<h2><a href="https://calebhuangsea.github.io./"> Hi there, this is Caleb | Cile Huang | 黄赐乐 </a><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" alt="Animated gif of a waving hand"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Animated gif of a typing skeleton">
 <p><em>A bachelor student at <a href="https://www.washington.edu/">University of Washington</a>,<br/> majoring at Computer Science<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
@@ -34,11 +35,12 @@
           "Phone Games📱",
           "Basketball🏀 & Gym💪",
           "Cooking🍳",
-          "Violin Gang~🎻",
+          "Violin Gang~🎻"
+        ],
         "💼status": "Your current status",
         "👨pronoun": [
-          "Your", 
-          "Preferred", 
+          "Your",
+          "Preferred",
           "Pronouns"
         ],
         "🏠hometown": "Your hometown",
@@ -52,7 +54,7 @@
           "Hobbies"
         ],
         "💻fechnologies": [
-          "Your", 
+          "Your",
           "Technologies"
         ],
         "👀more": [
@@ -66,7 +68,7 @@
   </code>
 </pre>
 
-<img src="https://github-readme-stats.vercel.app/api?username=calebhuangsea&show_icons=true&hide=issues,contribs"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebhuangsea&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=calebhuangsea&show_icons=true&hide=issues,contribs" alt="Caleb's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebhuangsea&layout=compact" alt="Caleb's most used languages"/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Animated gif of a waving hand"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
