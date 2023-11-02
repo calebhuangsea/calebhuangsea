@@ -29,6 +29,7 @@
           "Chinese",
           "Cantonese"
         ],
+[![Codeforces: newbornlingling](https://img.shields.io/badge/Codeforces-newbornlingling-blue)](https://codeforces.com/profile/newbornlingling)
         "🏫location": "Seattle, Washington, United State🇺🇸",
         "✨hobbies": [
           "Phone Games📱",
