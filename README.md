@@ -35,18 +35,25 @@
           "Basketball🏀 & Gym💪",
           "Cooking🍳",
           "Violin Gang~🎻",
-          "Sleeping💤"
+        "💼status": "Your current status",
+        "👨pronoun": [
+          "Your", 
+          "Preferred", 
+          "Pronouns"
+        ],
+        "🏠hometown": "Your hometown",
+        "🗣️language": [
+          "Your",
+          "Languages"
+        ],
+        "🏫location": "Your current location",
+        "✨hobbies": [
+          "Your",
+          "Hobbies"
         ],
         "💻fechnologies": [
-          "Java", 
-          "Python", 
-          "Kotlin",
-          "React", 
-          "SQL", 
-          "HTML", 
-          "CSS",
-          "Node",
-          "Express",
+          "Your", 
+          "Technologies"
         ],
         "👀more": [
           "Backend Developer at Eat-together (https://www.eat-together.tech/)",
