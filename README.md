@@ -1,7 +1,7 @@
 # Caleb's GitHub Profile
-<h2><a href="https://calebhuangsea.github.io./"> Hi there, this is Caleb | Cile Huang | 黄赐乐 </a><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" alt="Animated gif of a waving hand"></h2>
+<h1><a href="https://calebhuangsea.github.io./"> Hi there, this is Caleb | Cile Huang | 黄赐乐 </a><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" alt="Animated gif of a waving hand"></h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Animated gif of a typing skeleton">
-<p><em>A bachelor student at <a href="https://www.washington.edu/">University of Washington</a>,<br/> majoring at Computer Science<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>A bachelor student at <a href="https://www.washington.edu/">University of Washington</a>,<br/> majoring at Computer Science<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Animated gif of a small, moving figure">
 </em></p>
 
 
@@ -13,7 +13,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/calebhuangsea?label=follow&style=social)](https://github.com/calebhuangsea)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Animated gif of a small, moving figure"> A little more about me
 
 <pre>
   <code>
@@ -37,30 +37,40 @@
           "Cooking🍳",
           "Violin Gang~🎻"
         ],
-        "💼status": "Your current status",
+        "💼status": "Actively Seeking for SDE new grad 2024",
         "👨pronoun": [
-          "Your",
-          "Preferred",
-          "Pronouns"
+          "He",
+          "Him",
+          "Ling Ling🎻"
         ],
-        "🏠hometown": "Your hometown",
+        "🏠hometown": "Zhongshan, Guangdong, China🇨🇳",
         "🗣️language": [
-          "Your",
-          "Languages"
+          "English",
+          "Chinese",
+          "Cantonese"
         ],
-        "🏫location": "Your current location",
+        "🏫location": "Seattle, Washington, United State🇺🇸",
         "✨hobbies": [
-          "Your",
-          "Hobbies"
+          "Phone Games📱",
+          "Basketball🏀 & Gym💪",
+          "Cooking🍳",
+          "Violin Gang~🎻"
         ],
         "💻fechnologies": [
-          "Your",
-          "Technologies"
+          "Java", 
+          "Python", 
+          "Kotlin",
+          "React", 
+          "SQL", 
+          "HTML", 
+          "CSS",
+          "Node",
+          "Express"
         ],
         "👀more": [
           "Backend Developer at Eat-together (https://www.eat-together.tech/)",
           "Backend Developer at Hua-Classmate (https://uwclassmate.com/)",
-          "Best Use of Wix side challenge in ProSeed Hackathon'22 (https://devpost.com/software/cosme?ref_content=user-portfolio&ref_feature=in_progress)"
+          "Best Use of Wix side challenge in ProSeed Hackathon'22 (https://devpost.com/software/cosme?ref_content=user-portfolio&ref_feature=in_progress)",
           "My band Polaris won the first place at high school talent competition (https://www.bilibili.com/video/BV1XA411t75c/?spm_id_from=333.999.0.0)",
           "I learned the violin since kindergarden for 6 years, won a national silver prize but quit on 5th grade (Super regret now:("
         ]
@@ -71,4 +81,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=calebhuangsea&show_icons=true&hide=issues,contribs" alt="Caleb's GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebhuangsea&layout=compact" alt="Caleb's most used languages"/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Animated gif of a waving hand"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Animated gif of a waving hand"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
