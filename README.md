@@ -9,6 +9,9 @@
 [![Linkedin: Caleb](https://img.shields.io/badge/-Caleb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb/)](https://www.linkedin.com/in/cile-huang-b105a1252//)
 [![](https://img.shields.io/badge/Gmail-calebhuangsea%40gmail.com-red)](caleb:calebhuangsea@gmail.com)
 [![GitHub Thaiane](https://img.shields.io/github/followers/calebhuangsea?label=follow&style=social)](https://github.com/calebhuangsea)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ch233)
+
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
