@@ -9,6 +9,7 @@
 [![Linkedin: Caleb](https://img.shields.io/badge/-Caleb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb/)](https://www.linkedin.com/in/cile-huang-b105a1252//)
 [![](https://img.shields.io/badge/Gmail-calebhuangsea%40gmail.com-red)](caleb:calebhuangsea@gmail.com)
 [![GitHub Thaiane](https://img.shields.io/github/followers/calebhuangsea?label=follow&style=social)](https://github.com/calebhuangsea)
+[![Codeforces: newbornlingling](https://img.shields.io/badge/Codeforces-newbornlingling-blue)](https://codeforces.com/profile/newbornlingling)
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ch233)
 
 
@@ -30,7 +31,6 @@
           "Chinese",
           "Cantonese"
         ],
-[![Codeforces: newbornlingling](https://img.shields.io/badge/Codeforces-newbornlingling-blue)](https://codeforces.com/profile/newbornlingling)
         "🏫location": "Seattle, Washington, United State🇺🇸",
         "✨hobbies": [
           "Phone Games📱",
